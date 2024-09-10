@@ -1,7 +1,7 @@
 # Hi there, I am Alona  👋
 
 ## 🔗 Connect Me
-![plot](https://img.icons8.com/?size=512&id=13930&format=png) Check my [LinkedIn](www.linkedin.com/in/alona-rahilevych)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)] Check my [LinkedIn](www.linkedin.com/in/alona-rahilevych)
 
 ## 🙍‍♀️ About Me 
 
