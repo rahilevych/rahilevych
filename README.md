@@ -3,6 +3,11 @@
 ## 🔗 Connect Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alona-rahilevych)
 
+## 📫 Contact
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alona.rahilevych@gmail.com)
+
+
 
 ## 🙍‍♀️ About Me 
 
@@ -11,8 +16,6 @@
 * 🏛️ I have a Bachelor's degree in Computer Science and graduated from Code Academy Berlin after completing a Full Stack Web Development with TypeScript сourse 
 
 ## 💻 Tech Stack
-
-## 🛠️ Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
