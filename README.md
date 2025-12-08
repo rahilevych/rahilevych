@@ -56,13 +56,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 💬 Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahilevych&layout=compact&theme=default&hide_border=true)]()
-
-## 🚀 GitHub Activity & Metrics
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahilevych&show_icons=true&theme=default&hide_border=true&count_private=true)](https://github.com/rahilevych)
 
 
 
