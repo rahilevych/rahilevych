@@ -25,7 +25,33 @@
 
 ---
 
+## 💻 Featured Projects
+
+| Project | Preview | Tech Stack | Key Features | Code | Live Demo |
+| :--- | :--- | :--- | :--- | :---: | :---: |
+| **Task Management** | <img src="СЮДА_СКРИН" width="180px" /> | ![NestJS] ![React] ![TypeScript] ![PostgreSQL] ![Prisma] ![TanStack] ![Tailwind] | • JWT (Access/Refresh)<br>• Role-based Access (RBAC)<br>• Advanced CRUD | [📂 Repo](https://github.com/rahilevych/manage-your-flow) | [🚀 Live](https://manage-your-flow.vercel.app/) |
+| **Event Rave** | <img src="https://github.com/user-attachments/assets/a65e8d60-3019-4dd2-ba97-52d6c0000eab" width="180px" /> | ![NestJS] ![React] ![TypeScript] ![PostgreSQL] ![Prisma] ![TanStack] | • OAuth integration<br>• JWT Rotation <br>• Event serching | [📂 Repo](https://github.com/rahilevych/event-rave) | [🚀 Live](https://event-rave.vercel.app) |
+| **Bodhi Balance** | <img src="https://github.com/user-attachments/assets/58c5c2ca-795f-4fe7-8d04-a59cf9821925" width="180px" /> | ![React] ![Node.js] ![MongoDB] ![Mongoose] ![Stripe] | • Stripe Payments<br>• JWT Auth<br>• Studio booking logic | [📂 Repo](https://github.com/rahilevych/bodhi-balance) | [🚀 Live](https://bodhi-balance-8ucr.vercel.app) |
+| **Portfolio** | <img src="https://github.com/user-attachments/assets/5bbecb01-b682-4a97-b1e0-c9db1125d48b" width="180px" /> | ![React] ![Next.js]  | • Responsive design<br>• Smooth animations<br>• SEO optimized | [📂 Repo](https://github.com/alona-rahilevych/portfolio) | [🚀 Live](https://my-portfolio-alona-rahilevych.vercel.app/) |
+
+---
+
+[NestJS]: https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white
+[React]: https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB
+[TypeScript]: https://img.shields.io/badge/TS-007ACC?style=flat-square&logo=typescript&logoColor=white
+[PostgreSQL]: https://img.shields.io/badge/Postgres-316192?style=flat-square&logo=postgresql&logoColor=white
+[Prisma]: https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white
+[TanStack]: https://img.shields.io/badge/TanStack-FF4154?style=flat-square&logo=react-query&logoColor=white
+[MongoDB]: https://img.shields.io/badge/Mongo-47A248?style=flat-square&logo=mongodb&logoColor=white
+[Mongoose]: https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white
+[Stripe]: https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=stripe&logoColor=white
+[Node.js]: https://img.shields.io/badge/Node-339933?style=flat-square&logo=nodedotjs&logoColor=white
+[Next.js]: https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white
+[Tailwind]: https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white
+
 ## 💻 Tech Stack
+
+
 
 ### 🛠 Core Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
