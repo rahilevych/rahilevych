@@ -9,9 +9,9 @@
   <a href="https://www.linkedin.com/in/alona-rahilevych" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:alona.rahilevych@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+ <a href="mailto:alona.rahilevych@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 </p>
 
 ---
@@ -25,11 +25,13 @@
 
 ---
 
+
+
 ## 💻 Featured Projects
 
 | Project | Preview | Tech Stack | Key Features | Code | Live Demo |
 | :--- | :--- | :--- | :--- | :---: | :---: |
-| **Task Management** | <img src="СЮДА_СКРИН" width="180px" /> | ![NestJS] ![React] ![TypeScript] ![PostgreSQL] ![Prisma] ![TanStack] ![Tailwind] | • JWT (Access/Refresh)<br>• Role-based Access (RBAC)<br>• Advanced CRUD | [📂 Repo](https://github.com/rahilevych/manage-your-flow) | [🚀 Live](https://manage-your-flow.vercel.app/) |
+| **Task Management System <br> M.Y.F.** | <img src="https://github.com/user-attachments/assets/9da41b07-5646-4ced-a7e9-b69aaeab36b1" width="180px" /> | ![NestJS] ![React] ![TypeScript] ![PostgreSQL] ![Prisma] ![TanStack] ![Tailwind] | • JWT (Access/Refresh)<br>• Role-based Access (RBAC)<br>• Advanced CRUD | [📂 Repo](https://github.com/rahilevych/manage-your-flow) | [🚀 Live](https://manage-your-flow.vercel.app/) |
 | **Event Rave** | <img src="https://github.com/user-attachments/assets/a65e8d60-3019-4dd2-ba97-52d6c0000eab" width="180px" /> | ![NestJS] ![React] ![TypeScript] ![PostgreSQL] ![Prisma] ![TanStack] | • OAuth integration<br>• JWT Rotation <br>• Event serching | [📂 Repo](https://github.com/rahilevych/event-rave) | [🚀 Live](https://event-rave.vercel.app) |
 | **Bodhi Balance** | <img src="https://github.com/user-attachments/assets/58c5c2ca-795f-4fe7-8d04-a59cf9821925" width="180px" /> | ![React] ![Node.js] ![MongoDB] ![Mongoose] ![Stripe] | • Stripe Payments<br>• JWT Auth<br>• Studio booking logic | [📂 Repo](https://github.com/rahilevych/bodhi-balance) | [🚀 Live](https://bodhi-balance-8ucr.vercel.app) |
 | **Portfolio** | <img src="https://github.com/user-attachments/assets/5bbecb01-b682-4a97-b1e0-c9db1125d48b" width="180px" /> | ![React] ![Next.js]  | • Responsive design<br>• Smooth animations<br>• SEO optimized | [📂 Repo](https://github.com/alona-rahilevych/portfolio) | [🚀 Live](https://my-portfolio-alona-rahilevych.vercel.app/) |
